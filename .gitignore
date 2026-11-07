@@ -1,0 +1,24 @@
+# Compiled Java files
+*.class
+target/
+build/
+out/
+
+# Backups
+backups/
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# IDE configurations
+.vscode/
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Tool-specific generated files
+.github/modernize/
